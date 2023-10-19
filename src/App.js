@@ -21,7 +21,7 @@ function App() {
 
   //누가 Detail페이지 접속하면
   //그 페이지에 보이는 상품 id 가져와서
-  //localstorage에 watched 항목에 추가
+  //localstorage에 watched 항목에 추가1
   
   
 
